@@ -1,4 +1,4 @@
-name: Tweet nightly
+name: Tweet weekly
 
 on:
   issues:
